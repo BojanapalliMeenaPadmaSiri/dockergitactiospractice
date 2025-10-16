@@ -147,7 +147,7 @@ const MovieManager = () => {
       )}
 
       <h2>Movie Watchlist</h2>
-      <h3>Hello movie</h3>
+      <h3>2300032161</h3>
 
       {/* Add/Edit Movie */}
       <div>
